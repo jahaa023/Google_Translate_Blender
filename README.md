@@ -1,0 +1,1 @@
+A program i made in the 10th grade written in PowerShell to recursively translate a string in Google Translate with random languages. Run InstallGTB.ps1 while keeping all files in same folder to install the program
